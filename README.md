@@ -1,5 +1,7 @@
 # Generative-Adversarial-Network
 
+– Generative adversarial networks, also known as GANs, are composed of a generative and a discriminative model, where the generative model aims at generating the most truthful output that will be fed into the discriminative which aims at differentiating the generated and true image.
+
 GAN is one of the most Hot topics in AI.Its is use for various application.This repository contained GAN networks.
 I am also working on XAI.
 
